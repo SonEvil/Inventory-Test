@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "The Fish",
+    "value": 6,
+	"stats": {
+			"power" : 10,
+			"defence": 4
+	},
+	"description": "Catch on the beach",
+	"stackable": true,
+	"rarity": 2,
+	"slug": "the_fish"
+  },
+  {
+    "id": 1,
+    "title": "Meat",
+    "value": 543,
+	"stats": {
+		"power" : 10,
+		"defence": 2
+	},
+	"description": "Catch on the Animal",
+	"stackable": false,
+	"rarity": 6,
+	"slug": "the_meat"
+  },
+
+  {
+    "id": 2,
+    "title": "Arrow",
+    "value": 54,
+	"stats": {
+		"power" : 56,
+		"defence": 2
+	},
+	"description": "Arrow make by SonEvil. Yea.",
+	"stackable": true,
+	"rarity": 6,
+	"slug": "the_arrow"
+  }
+]
